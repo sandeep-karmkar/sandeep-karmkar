@@ -63,24 +63,18 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
+<a href="https://instagram.com/sandiip.kr/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sandeepkarmkar111@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
 
 <p align="center">
   ✨ “Consistency beats motivation.” ✨
